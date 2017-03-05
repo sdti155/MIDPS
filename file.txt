@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+commit3
+=======
+commit2
+>>>>>>> branch2
